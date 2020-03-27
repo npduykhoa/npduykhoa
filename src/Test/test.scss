@@ -1,0 +1,68 @@
+@media only screen and (max-width: 600px) {
+  .section {
+    font-size: 16px;
+    .title {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      padding: 0 16px;
+      line-height: 24px;
+      .tip {
+        margin: 0;
+      }
+      a {
+        font-size: 12px;
+        font-weight: 500;
+        text-decoration: none;
+        color: #e3312e;
+        white-space: nowrap;
+      }
+    }
+
+    .content-scroll__nice {
+      color: white;
+      padding: 16px;
+      overflow-y: auto;
+      .list-view {
+        display: flex;
+        width: 1500px;
+        .list-item {
+          display: flex;
+          flex-direction: column-reverse;
+          justify-content: space-between;
+          background-image: url("https://tea-3.lozi.vn/v1/images/original/tigersugar-duong-nau-sua-thanh-thai-quan-10-ho-chi-minh-1584507638900822601-eatery-avatar-1584611735");
+          width: 200px;
+          height: 140px;
+          background-size: cover;
+          background-repeat: no-repeat;
+          border-radius: 12px;
+          padding: 12px;
+          margin-right: 16px;
+          .info {
+            .name {
+              font-weight: bolder;
+            }
+            .address {
+              font-weight: 500;
+            }
+          }
+          .deal {
+            display: flex;
+            justify-content: flex-end;
+            .deal-content {
+              background: linear-gradient(to right, #4097e7, cornflowerblue);
+              border: 1px solid cornflowerblue;
+              border-radius: 20px;
+              padding: 2px 6px;
+              font-size: 12px;
+              font-weight: bolder;
+              i {
+                padding-right: 5px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
