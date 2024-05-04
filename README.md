@@ -42,13 +42,12 @@ Proactive Javascript Developer with 4 years of experience in Front-end Developme
 
 ## 📬 Get in Touch
 
-Connect with me on:
-[![Website](https://img.shields.io/badge/npdk.dev-000000?style=flat&logo=google-cloud&logoColor=white)](https://www.npdk.dev)
+Connect with me on
 [![gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:npduykhoa@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white&color=black)](https://www.twitter.com/npduykhoa158/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/npduykhoa158)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@npduykhoa)
 
-Read more of my infomation on [www.npdk.dev](https://npdk.dev)
+Read more of my infomation on [![Website](https://img.shields.io/badge/npdk.dev-000000?style=flat&logo=google-cloud&logoColor=white)](https://www.npdk.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
