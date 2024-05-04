@@ -14,6 +14,11 @@ Proactive Javascript Developer with 4 years of experience in Front-end Developme
 
 📝 I write in-depth, long-form articles on my website [www.npdk.dev](https://npdk.dev).
 
+## 📊 GitHub Analytics
+
+[![stats](https://github-readme-stats.vercel.app/api?username=npduykhoa&theme=gotham&show_icons=true&border_color=2e3440&card_width=700)](https://github.com/npduykhoa)\
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=npduykhoa&layout=compact&exclude_repo=npduykhoa.github.io&theme=gotham&border_color=2e3440&card_width=700)](https://github.com/npduykhoa)
+
 
 ## ⚙️ Tech Stack
 
@@ -37,8 +42,11 @@ Proactive Javascript Developer with 4 years of experience in Front-end Developme
 ## 📬 Get in Touch
 
 Connect with me on:
-- <img src="https://skillicons.dev/icons?i=linkedin" width="18" /> [linkedin.com/in/npdukhoa158](https://linkedin.com/in/npdukhoa158)
-- <img src="https://skillicons.dev/icons?i=gmail" width="18" /> npduykhoa@gmail.com
+[![Website](https://img.shields.io/badge/npdk.dev-000000?style=flat&logo=google-cloud&logoColor=white)](https://www.npdk.dev)
+[![gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:npduykhoa@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white&color=black)](https://www.twitter.com/npduykhoa158/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/npduykhoa158)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@npduykhoa)
 
 Read more of my infomation on [www.npdk.dev](https://npdk.dev)
 
