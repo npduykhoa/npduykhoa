@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://npdk.dev/preview.png" width="350"/>
+  <h1 align="center" border="0" size="80">Hi 👋, I'm <b>Khoa Nguyen</b></h1>
+  <h3 align="center">Interactive <i>Front-end Engineer</i></h3>
 </p>
 
-# Hi, I'm Khoa Nguyen! 👋
+## 📖 Summary
 
 Proactive Javascript Developer with 4 years of experience in Front-end Development, specializing in React.js. I am always on the lookout for new challenges and opportunities for growth. Additionally, I have a willingness to learn skills both Front-end and Back-end Development aspire to become as a Full-stack Development
 
