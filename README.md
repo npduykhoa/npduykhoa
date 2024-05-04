@@ -22,11 +22,13 @@ Proactive Javascript Developer with 4 years of experience in Front-end Developme
 
 
 ## ⚙️ Tech Stack
+#### Front-end:
+[![Front-end](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,sass,tailwind,vite,webpack)](https://skillicons.dev)
 
-[![Front-end](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,sass,tailwind)](https://skillicons.dev)
-
+#### Back-end:
 [![Back-end](https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb)](https://skillicons.dev)
 
+#### Developer tools:
 [![Developer Tools](https://skillicons.dev/icons?i=docker,neovim,vscode,figma,git,postman)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
